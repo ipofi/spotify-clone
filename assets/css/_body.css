@@ -99,7 +99,7 @@
       overflow: hidden;
       gap: 1rem; }
       .body .home .home__trendingSongs .song:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__trendingSongs .song .album {
@@ -137,7 +137,7 @@
       overflow: hidden;
       gap: 1rem; }
       .body .home .home__newReleases .song:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__newReleases .song .album {
@@ -176,7 +176,7 @@
       cursor: pointer;
       overflow: hidden; }
       .body .home .home__albums .song:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__albums .song .album {
@@ -208,7 +208,7 @@
       padding: 15px;
       gap: 1rem; }
       .body .home .home__artists .artist:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__artists .artist .artistImage {
@@ -239,7 +239,7 @@
       cursor: pointer;
       overflow: hidden; }
       .body .home .home__playlists .playlist:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__playlists .playlist .album {
@@ -267,7 +267,7 @@
       cursor: pointer;
       overflow: hidden; }
       .body .home .home__genres .genre:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .home .home__genres .genre .image {
@@ -368,7 +368,7 @@
       .body .library .library__songs .song:hover,
       .body .library .library__artists .song:hover,
       .body .library .library__albums .song:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .library .library__playlists .song .album,
@@ -436,7 +436,7 @@
       .body .search .songs .song:hover,
       .body .search .albums .song:hover,
       .body .search .playlists .song:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .search .songs .song .album,
@@ -495,7 +495,7 @@
       gap: 1rem; }
       .body .search .artists .artist:hover,
       .body .search .profiles .artist:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .search .artists .artist .artistImage,
@@ -655,7 +655,7 @@
       cursor: pointer; }
       .body .profile .following .person:hover,
       .body .profile .followers .person:hover {
-        transition: 200ms transform linear, 200ms background-color ease-in;
+        transition: 200ms transform linear, 200ms background-color ease-in;
         transform: scale(1.04);
         background-color: rgba(0, 0, 0, 0.8); }
       .body .profile .following .person .image,
